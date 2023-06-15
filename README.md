@@ -1,6 +1,3 @@
 # ESTUDOS DE HTML, CSS E JAVASCRIPT 
-
-#### NOTA:
-É importante ressaltar aqui que eu estou fazendo projetos ja existentes do YouTube para aprimorar meus conhecimntos
-nessas tecnologias. 
+Etudos por tutoriais da internet. 
 ### Posteriormente, farei um projetinho original. 
