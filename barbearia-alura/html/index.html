@@ -1,30 +1,42 @@
 <!DOCTYPE html> <!--indica a versão html-->
-<html lang= "pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width">
-    <title>Barbearia Alura</title>
+<html lang= "pt-br"> <!--conteúdo html e linguagem da página-->
+<head> <!--informações de cabeçalho-->
 
+    <meta charset="UTF-8"> <!--informações do documento (metadados)-->
+    <meta name="viewport" content="width=device-width">
+
+    <title>Barbearia Alura</title> <!--título da página web (na aba)-->
+
+    <!--link= inclusão de outros documentos-->
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 
-<body>
-    <header> <!-- cabeçalho da página -->
-        <div class="caixa">
+<body> <!--envolve o corpo do documento-->
+    <header> <!--cabeçalho da página-->
+
+        <div class="caixa"> <!--define uma divisão na página-->
             <h1><img src="logo.png"></h1>
 
-            <nav>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+            <nav> <!--seção de links de navegação-->
+                <ul> <!--lista NÃO ordenada-->
+                    <li><a href="index.html">Home</a></li> <!--um item da lista-->
+                    <li><a href="produtos.html">Produtos</a></li>
+                    <li><a href="contato.html">Contato</a></li>
                 </ul>
             </nav>
-
         </div>
-    </header> 
+    </header>
+
+    <img class="banner" src="banner.jpg">
+
+    <main> <!--conteúdo principal do corpo-->
+        <section class="principal">
+            <h2 class="titulo-principal">Sobre a Barbearia Alura</h2>
+        </section>
+
+    </main>
 </body>
 
-</html> <!-- final do conteúdo html -->
+</html> <!--final do conteúdo html-->
