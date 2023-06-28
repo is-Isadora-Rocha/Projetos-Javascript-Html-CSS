@@ -1,2 +1,2 @@
-# GAME MARIO JUMO
+# GAME MARIO JUMP
 (instruções a serem colocadas posteriormente) 
